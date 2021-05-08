@@ -1,0 +1,27 @@
+{
+  "name": "listener-then-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coin-Geciyo-mu/listener-then-notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coin-Geciyo-mu/listener-then-notification/issues"
+  },
+  "homepage": "https://github.com/Coin-Geciyo-mu/listener-then-notification#readme",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "oauth-1.0a": "^2.2.6",
+    "telegraf": "^4.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
